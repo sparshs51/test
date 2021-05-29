@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; BlogCMS</title>
-	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/test/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/test/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sat, 29 May 2021 13:09:55 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>/hello-world/</link>
-					<comments>/hello-world/#comments</comments>
+		<link>/test/hello-world/</link>
+					<comments>/test/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[this.sparsh]]></dc:creator>
 		<pubDate>Sat, 29 May 2021 13:09:55 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">/test/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>/test/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
